@@ -1,3 +1,5 @@
+Commands and Definitions
+
 1. git branch		// Try to the branc, that you on
 2. git branch -r	// Find out in which remoted branch is the repository on
 3. git branch -a	// To list all existed branches
