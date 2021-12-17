@@ -5,4 +5,11 @@ Commands and Definitions
 3. git branch -a	// To list all existed branches
 4. git branch branch-name // create a new branch. You make a copy of the branch that you are on without changing the remoted branch
 
-	
+Remoted branches and repositories	
+echo "# git-doyware-files" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/DoywareCisse/git-doyware-files.git
+git push -u origin main
