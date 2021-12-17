@@ -1,0 +1,6 @@
+1. git branch		// Try to the branc, that you on
+2. git branch -r	// Find out in which remoted branch is the repository on
+3. git branch -a	// To list all existed branches
+4. git branch branch-name // create a new branch. You make a copy of the branch that you are on without changing the remoted branch
+
+	
