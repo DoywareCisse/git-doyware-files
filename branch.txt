@@ -8,7 +8,7 @@ BRANCH
 5. git checkout new-branch-name // To switch to new-branch-name branch
 6. git checkout -	// To switch to back and fort
 7. git push -u origin new-branch-name
-8. git checkout -b	// create a new branch and switch to this branch
+8. git checkout -b name-of-branch	// create a new branch and switch to this branch
 9. git branch -d name-of-branch	 // Delete the name branch name-of-branch
 
 
