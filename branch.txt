@@ -1,9 +1,16 @@
 Commands and Definitions
 
+BRANCH
 1. git branch		// Try to the branc, that you on
 2. git branch -r	// Find out in which remoted branch is the repository on
 3. git branch -a	// To list all existed branches
-4. git branch branch-name // create a new branch. You make a copy of the branch that you are on without changing the remoted branch
+4. git branch new-branch-name // create a new branch. You make a copy of the branch that you are on without changing the remoted branch
+5. git checkout new-branch-name // To switch to new-branch-name branch
+6. git checkout -	// To switch to back and fort
+7. git push -u origin new-branch-name
+8. git checkout -b name-of-branch	// create a new branch and switch to this branch
+9. git branch -d name-of-branch	 // Delete the name branch name-of-branch
+
 
 Remoted branches and repositories	
 echo "# git-doyware-files" >> README.md
